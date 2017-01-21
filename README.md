@@ -1,4 +1,4 @@
-# Spring Boot FreeMarker Hello World Example
+# Spring Boot Thymeleaf Hello World Example
 
 Guide
 
